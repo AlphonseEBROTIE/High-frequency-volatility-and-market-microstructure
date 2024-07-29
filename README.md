@@ -1,0 +1,2 @@
+# High-frequency-volatility-and-market-microstructure
+This exploratory study begins with the analysis &amp; implementation of the research paper "Optimal Execution of Portfolio Transactions" by Almgren &amp; Chriss. The goal is to familiarize ourselves with this seminal model, understand the importance of having a robust volatility estimator in a high-frequency context, and implement some of these estimators.
